@@ -1,0 +1,39 @@
+-môn học tiên quyết của bạn này nhưng không phải môn học tiên quyết của người khác
+-môn này học rồi mới học môm kia
+
+chương trình khung
+
+1Khoa-1Khóa-1 chương trình khung giống nhau
+=>nếu khi sinh viên thuộc 1 khoa, khóa, chương trình khung giống nhau
+
+
+1.import danh sách sinh viên
+
+phần mềm sẽ tự chia ra 
+sinh viên khoa nào
+Khóa nào
+
+2.import chương trình khung
+cho 1 khóa trong 1 khoa
+=>lúc đó sinh viên năm nào sẽ tự có 1 điều kiện cho từng sinh viên
+trong file này cần có 1 lớp học bao nhiêu bạn để hệ thống biết cách mở lớp
+3.Hệ thống sẽ tự tạo ra lịch học
+dự vào số lượng sinh viên
+môn ep buộc thì sinh sẽ dự vào số lượng 
+môn tự chọn sẽ tự mở theo kiểu chia đôi (khoa có 200 sinh viên có 2 môn tự chọn, thì mỗi môn mở 2 lớp mỗi lớp,)
+
+
+4.Hệ thống có chức năng xây dựng chương trình cho giảng viên
+có dánh sách môn học rồi
+giảng viên chỉ việc chọn môn học vào từng kì 
+
+
+
+
+
+Đăng ký môn học, đăng ký dạy
+hủy môn dạy
+
+
+
+học phần có cả học phần thực hành và lý thuyết 

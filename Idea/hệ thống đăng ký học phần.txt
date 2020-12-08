@@ -1,0 +1,45 @@
+hệ thống đăng ký học phần
+
+Mô hình sẽ là khoa lập danh sách hợp phần gửi lên cho Phòng đào tạo
+Phòng đạo tạo sẽ inport danh sách đó vào hệ thống
+sinh viên lên sẽ đăng ký
+
+
+
+-Admin
+
+-Phòng Đào Tạo
+Phòng đào tạo nhận danh sách từ khoa sẽ 
+-Khoa
+Lập danh sách các môn học trong kì học kì đó
+gửi lên phòng đào tạo
+
+-Giảng Viên(không biết nên có actor này không)
+xem lịch dạy của mình trên kho
+
+
+-Sinh Viên
+ +Sinh viên sẽ có 1 tài khoản(bao gồm cả thông tin sinh viên)
+ +Đăng Ký học phần
+ +Xem danh sách môn học mà sinh viên đó có thể đăng ký(phần quyền theo môn học, có thể phẩn theo kì theo khó)
+ +xem danh sách môn học mà sinh viên đó đã đăng ký
+ +Xem học phí mà sinh viên đó phải đón và đã đón
+ +Cập nhập thông tin(gồm cả mật khẩu)
+
+
+
+
+
+-table Phòng,số lượng Sinh Viên
+
+
+
+
+
+-phòng học cấp như thế nào
+
+
+-đầu học PDT sẽ cấp mỗi khoa bao nhiêu phòng, bao nhiêu tiết(theo niên giám)
+-từng khoa sẽ phụ thuộc thược vào lịch của từn môn mà sẽ tạo ra 
+giờ học(thứ,tiết,phòng,giáo viên,thời gian,số lượng sinh viên)
+

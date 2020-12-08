@@ -1,0 +1,37 @@
+-Danh sách chức năng
++Chức năng user(login., logout, change password...)
+
+giảng viên
++đăng ký môn dạy
++đăng ký lớp dạy
++xem lịch giảng viên
+
+
+sinh viên 
++xem danh sách môn học trong kỳ 
++đăng ký học phần
++hủy học phần đã đăng ký
+
+
+phòng đạo tạo
++cập nhập bảng điểm đối với sinh viên
++cập nhập thông tin quản lý 
++cập nhập thông tin sinh viên, giảng viên
++Chức năng quản lý đạo tạo
+ .chia lớp học theo học phần
+ .chuyển đổi học phầ mà có số lượng sinh viên đã đăng ký nhỏ hơn điều kiện tối thiếu
++tự động chuyển trạng thái của học phần 
+ (.đang lên kế hoạch
+  .chờ sing viên đăng ký
+  .chấp nhận mở lớp
+  .chờ hủy lớp
+  ..)
+
+-Danh sách phi chức năng
++diều kiện ràng buộc từng môn học (không học môn A không được học môn B)
++điều kiện ràng buộc từng sinh viên (không qua tiếng anh không được học năm 3)
+
+
+
+
+-dữ liệu cần luu trữ
